@@ -93,3 +93,6 @@ Follow below step for contribute :
 3. Then make changes you want and send the pull request .
 4. When your pull request accept then synk the fork .
 5. After that synk get pull in your editor .
+
+
+Note : new Data
